@@ -46,20 +46,20 @@
 
 ## 目录结构
 .
-│  happiness_submit.csv
-│  happiness_test_abbr.csv
-│  happiness_test_complete.csv
-│  happiness_train_abbr.csv
-│  happiness_train_complete.csv
-│  happine_prediction.ipynb
-│  list.txt
-│  total.csv
+│  happiness_submit.csv  
+│  happiness_test_abbr.csv  
+│  happiness_test_complete.csv  
+│  happiness_train_abbr.csv  
+│  happiness_train_complete.csv  
+│  happine_prediction.ipynb  
+│  list.txt  
+│  total.csv  
 │  
-├─.ipynb_checkpoints
+├─.ipynb_checkpoints  
 │      loglap-checkpoint.ipynb  
 │      logmh-checkpoint.ipynb  
 │      
-├─cat_result
+├─cat_result  
 │      cat0  
 │      cat1  
 │      cat10  
@@ -76,7 +76,7 @@
 │      cat8  
 │      cat9  
 │      
-├─gbd_result  
+├─gbd_result    
 │      gbdt0  
 │      gbdt1  
 │      gbdt10  
@@ -93,7 +93,7 @@
 │      gbdt8  
 │      gbdt9  
 │      
-├─lr_result  
+├─lr_result   
 │      lr0  
 │      lr1  
 │      lr10  

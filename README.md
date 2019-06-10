@@ -41,7 +41,11 @@
 **happiness_test_complete**是完整的测试数据   
 **happiness_train_abbr**是精简的训练数据  
 **happiness_train_complete**是完整的训练数据  
+**happiness_index**index文件中包含每个变量对应的问卷题目，以及变量取值的含义  
 **total**是中间的数据处理结果  
+
+
+
 
 
 

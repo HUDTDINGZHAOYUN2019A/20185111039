@@ -26,9 +26,9 @@
 **happiness_test_abbr**  
 **happiness_test_complete**  
 **happiness_train_abbr**  
-**happiness_train_complete  
+**happiness_train_complete**  
 - 导入代码  
-**happiness**  
+**happiness.ipynb**  
 在确认函数包均安装到位后即可运行
 
 

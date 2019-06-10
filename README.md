@@ -45,17 +45,86 @@
 **total**是中间的数据处理结果  
 
 ## 目录结构说明  
-Table of Contents
-=================
-
-   * [DZM_happiness_dinning]()
-   * [段志敏大作业_阿里天池幸福感挖掘]()
-      * [使用模块]()
-      * [编译环境]()
-      * [使用说明]()
-      * [代码结构说明]()
-      * [目录结构说明]()
-      * [训练模型]()
+│  happiness_submit.csv
+│  happiness_test_abbr.csv
+│  happiness_test_complete.csv
+│  happiness_train_abbr.csv
+│  happiness_train_complete.csv
+│  happine_prediction.ipynb
+│  list.txt
+│  total.csv
+│  
+├─.ipynb_checkpoints
+│      loglap-checkpoint.ipynb
+│      logmh-checkpoint.ipynb
+│      
+├─cat_result
+│      cat0
+│      cat1
+│      cat10
+│      cat11
+│      cat12
+│      cat13
+│      cat14
+│      cat2
+│      cat3
+│      cat4
+│      cat5
+│      cat6
+│      cat7
+│      cat8
+│      cat9
+│      
+├─gbd_result
+│      gbdt0
+│      gbdt1
+│      gbdt10
+│      gbdt11
+│      gbdt12
+│      gbdt13
+│      gbdt14
+│      gbdt2
+│      gbdt3
+│      gbdt4
+│      gbdt5
+│      gbdt6
+│      gbdt7
+│      gbdt8
+│      gbdt9
+│      
+├─lr_result
+│      lr0
+│      lr1
+│      lr10
+│      lr11
+│      lr12
+│      lr13
+│      lr14
+│      lr2
+│      lr3
+│      lr4
+│      lr5
+│      lr6
+│      lr7
+│      lr8
+│      lr9
+│      
+└─xg_result
+        xg0
+        xg1
+        xg10
+        xg11
+        xg12
+        xg13
+        xg14
+        xg2
+        xg3
+        xg4
+        xg5
+        xg6
+        xg7
+        xg8
+        xg9
 
 
 ## 训练模型

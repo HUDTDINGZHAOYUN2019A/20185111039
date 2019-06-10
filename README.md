@@ -44,6 +44,9 @@
 **happiness_index**index文件中包含每个变量对应的问卷题目，以及变量取值的含义  
 **total**是中间的数据处理结果  
 
+## 训练模型
+采用了CatBoostRegressor模型、xgboost模型、gbdt模型三个模型进行求解  
+最后采用了三个模型结果的带权平均值作为最终结果  
 
 
 

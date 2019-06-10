@@ -36,13 +36,14 @@
 **xg_result**存储的是xgboost模型的结果  
 **gbd_result**存储的是gbdt模型的求解结果   
 **lr_result**存储的是带权平均融合CatBoostRegressor + xgboost + gbdt模型的结果  
-**happiness_submit**是示例结果  
+**happiness_submit**是提交的结果  
 **happiness_test_abbr**是精简的测试数据  
 **happiness_test_complete**是完整的测试数据   
 **happiness_train_abbr**是精简的训练数据  
 **happiness_train_complete**是完整的训练数据  
 **happiness_index**index文件中包含每个变量对应的问卷题目，以及变量取值的含义  
 **total**是中间的数据处理结果  
+
 
 
 

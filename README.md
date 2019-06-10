@@ -16,7 +16,7 @@
 **xgboost**  
 
 ## 编译环境
-语言：python  
+语言：python  3.x
 运行环境：jupyter notebook
 ## 使用说明
 

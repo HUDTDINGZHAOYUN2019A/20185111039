@@ -45,7 +45,7 @@
 **total**是中间的数据处理结果  
 
 ## 目录结构
-.
+.  
 │  happiness_submit.csv  
 │  happiness_test_abbr.csv  
 │  happiness_test_complete.csv  
@@ -94,7 +94,7 @@
 │      gbdt9  
 │      
 ├─lr_result   
-│      lr0  
+│        lr0  
 │      lr1  
 │      lr10  
 │      lr11  

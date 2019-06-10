@@ -4,7 +4,7 @@
 
 ## 使用模块
 使用了如下模块
-**pandas**,**matplotlib**,**seborn**,**numpy**
+**pandas**,**matplotlib**,**seborn**,**numpy**,
 **scipy**,**sklearn**,**warnings**,**datetime**
 **catboost**,**xgboost**
 
@@ -15,11 +15,11 @@
 
 在安装jupyter notebook之后，
 *导入数据:
-**happiness_submit**
-**happiness_test_abbr**
-**happiness_test_complete**
-**happiness_train_abbr**
-**happiness_train_complete**
+**happiness_submit**,
+**happiness_test_abbr**,
+**happiness_test_complete**,
+**happiness_train_abbr**,
+**happiness_train_complete**,
 *导入代码
 **happiness**
 在确认函数包均安装到位后即可运行
